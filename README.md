@@ -30,4 +30,4 @@ Get in touch with the author if you have suggestions or questions.
   </tr>
 </table>
 
-Note: this is based entirely on the work done on the foursquare-async library <https://github.com/jmathai/Untappd-async>
+Note: this is based entirely on the work done on the foursquare-async library <https://github.com/jmathai/foursquare-async>
